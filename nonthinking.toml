@@ -1,0 +1,9 @@
+enable_thinking = false
+completion_tokens = 8192
+model_context = 32768
+learning_rate = 1e-6
+num_train_epochs = 100
+updates_per_block = 2235
+validation_checks = 8
+early_stopping_patience = 8
+compute_seconds = 604800
