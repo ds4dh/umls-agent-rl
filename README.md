@@ -2,6 +2,8 @@
 
 Fine-tune Qwen3.5-4B with LoRA and Dr. GRPO for biomedical concept normalisation using a fixed SapBERT–HNSW search tool.
 
+The trained thinking-enabled LoRA adapter and inference instructions are available on [Hugging Face](https://huggingface.co/anthonyyazdaniml/umls-agent-qwen3.5-4b-thinking).
+
 ## Install
 
 ```bash
